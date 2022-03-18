@@ -1,0 +1,10 @@
+====================
+sf_scr_Dima22_33 Date: Fri Mar 18 2022 17:29:40 GMT+0200
+ getRandomInt: 9
+ Math.round(Math.random()): 1
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+====================
