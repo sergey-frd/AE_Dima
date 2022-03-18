@@ -6,7 +6,7 @@ function createScaleProperty2(comp, videoLayer, curItem, FlagBigLitle)
 
     var keyProperty = videoLayer.property("Scale")
     var scr_scale = Math.min ((Math.round(comp.height*100/curItem.height,2)),(Math.round(comp.width*100/curItem.width,2)))
-    var max_scale = scr_scale * 1.68;
+    var max_scale = scr_scale * 1.618;
 
     if  (FlagBigLitle  == 0) {
 
@@ -39,7 +39,7 @@ function createScaleProperty(comp, videoLayer, curItem, FlagBigLitle)
 
     var scr_scale = Math.min ((Math.round(comp.height*100/curItem.height,2)),(Math.round(comp.width*100/curItem.width,2)))
     //var max_scale = scr_scale * 1.68;
-    var max_scale = scr_scale * 1.62;
+    var max_scale = scr_scale * 1.618;
 
 
     // lg.writeln(String(scr_scale) + ' (comp.height) : ' +   String(comp.height)  + ' curItem.height: ' +   String(curItem.height)  );
@@ -163,6 +163,7 @@ function createEffectsProperty(videoLayer)
     var EffAutoContrast   = videoLayer.property("Effects").addProperty("Auto Contrast");
     var EffAutoLevels     = videoLayer.property("Effects").addProperty("Auto Levels");
     var EffBrContr        = videoLayer.property("Effects").addProperty("Brightness & Contrast");
+    var EffCurves         = videoLayer.property("Effects").addProperty("Curves");
 }
 
 //===================================================
@@ -187,10 +188,11 @@ function createProperty(comp, videoLayer, curItem, FlagBigLitle)
 
     
     var random = Math.round(Math.random());
-    if(random == 0) {createScaleProperty(comp, videoLayer, curItem, FlagBigLitle);}
-    else {createScaleProperty2(comp, videoLayer, curItem, FlagBigLitle);}
+
+    // if(random == 0) {createScaleProperty(comp, videoLayer, curItem, FlagBigLitle);}
+    // else {createScaleProperty2(comp, videoLayer, curItem, FlagBigLitle);}
             
-    //createScaleProperty2(comp, videoLayer, curItem, FlagBigLitle);
+    createScaleProperty2(comp, videoLayer, curItem, FlagBigLitle);
     //createScaleProperty(comp, videoLayer, curItem, FlagBigLitle);
 
     createPositionProperty(comp, videoLayer, FlagBigLitle);

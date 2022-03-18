@@ -1,0 +1,14 @@
+====================
+Dima_22_7_br_8 Date: Fri Mar 18 2022 19:15:13 GMT+0200
+ getRandomInt: 9
+ getRandomInt: 1
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 0
+ genXml.logName: Dima_22_7_br_5d
+ genXml.pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Dima\\xml\\ae_dima_br_22_7_1.xml
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+====================

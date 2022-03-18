@@ -8,9 +8,10 @@
 // }
 
 //===================================================
-function readXmlae_Dima22_3_1() 
+function readXmlae_Dima22_3_1(pathRrXml) 
 {
-    var file = File("e:\\Setup\\!AE\\ae_scripts_sf\\info\\xml\\ae_dima_kids22_10_1.xml");
+    //var file = File("e:\\Setup\\!AE\\ae_scripts_sf\\info\\xml\\ae_dima_kids22_10_1.xml");
+    var file = File(pathRrXml);
     file.open("r");
     var xmlString = file.read();
     var myXml = new XML(xmlString);
@@ -98,6 +99,48 @@ function  handleXmlDima_1()
 
 //===================================================
 
+//===================================================
+function  handleXmlDima_2(myXml)
+{
+
+    var i = 0; 
+    while(myXml.media.video.track.clipitem.file[i] != undefined) {
+
+        if (myXml.media.video.track.clipitem.file[i].pathurl) {
+
+            filePathUrl.push(myXml.media.video.track.clipitem.file[i].pathurl);
+            var w = myXml.media.video.track.clipitem.file[i].media.video.samplecharacteristics.width;
+            fileWidth.push(parseIntSmarter(w));
+            var h = myXml.media.video.track.clipitem.file[i].media.video.samplecharacteristics.height;
+            fileHeight.push(parseIntSmarter(h));
+
+        } // if (myXml..
+        i++;
+    }
+
+    for(var i = 0; i < filePathUrl.length; i++) {
+
+        var fpList = filePathUrl[i].split('\/');
+        var winPath = '';
+        for(var ii = 0; ii < fpList.length; ii++) {
+
+            if(fpList[ii] == "file:")     {continue;}
+            if(fpList[ii] == "localhost") {continue;}
+            if(fpList[ii] == "E%3a")      {winPath += "E:\\\\"; continue;}
+
+            winPath += fpList[ii];
+            if (ii < fpList.length -1 && ii > 3) {winPath += "\\\\";}
+
+        }
+        filePathUrl[i] = winPath
+        fileName.push(fpList[fpList.length-1])
+        var mi = Math.min(compHeight*100/fileHeight[i],compHeight*100/fileWidth[i])
+        var ma = Math.max(compHeight*100/fileHeight[i],compHeight*100/fileWidth[i])
+        scaleMin.push(Math.round(mi,2));
+        scaleMax.push(Math.round(ma,2));
+
+    }
+}
 
 //===================================================
 

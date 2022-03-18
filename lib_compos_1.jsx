@@ -89,6 +89,9 @@ function handleCurrentCompAll(indx,Prefix,FlagBigLitle,videoFileItem)
     var newCompAll  = app.project.items.addComp(compNameAll, compWidth, compHeight, 1.0, durationSec, 25);
 
     var videoLayerAll = newCompAll.layers.add(videoFileItem);
+    createEffectsProperty(videoLayerAll);
+    //CurvesEffect = videoLayerAll.Effects.addProperty("ADBE CurvesCustom");
+    //lumetriEffect = videoLayerAll.Effects.addProperty("ADBE Lumetri");
 
     var scr_scaleMin = Math.min ((Math.round(newCompAll.height*100/videoFileItem.height,2)),(Math.round(newCompAll.width*100/videoFileItem.width,2)))
     var scr_scaleMax = Math.max ((Math.round(newCompAll.height*100/videoFileItem.height,2)),(Math.round(newCompAll.width*100/videoFileItem.width,2)))
@@ -96,6 +99,7 @@ function handleCurrentCompAll(indx,Prefix,FlagBigLitle,videoFileItem)
     videoLayerAll.property("Scale").setValue([scr_scaleMax*3,scr_scaleMax*3]);
     videoLayerAll.property("Opacity").setValuesAtTimes(addOpacityBi1Keys,addOpacityBi1Val);
     createRotationProperty(videoLayerAll);
+
 
 
    var videoLayerBg = newCompAll.layers.add(videoFileItem);
@@ -109,6 +113,7 @@ function handleCurrentCompAll(indx,Prefix,FlagBigLitle,videoFileItem)
 
    var videoLayer = newCompAll.layers.add(videoFileItem);
    createProperty(newCompAll, videoLayer, videoFileItem, FlagBigLitle);
+   //lumetriMainEffect = videoLayer.Effects.addProperty("ADBE Lumetri");
 
    handleParentFoldersAll(compNameAll);
    //handleParentFolders(videoFileItem,compNameAll,compName,compNameBg,compNameBi1);
