@@ -1,0 +1,102 @@
+====================
+Dima_22_solo_11 Date: Sat Mar 19 2022 18:20:07 GMT+0200
+ getRandomInt: 8
+ getRandomInt: 3
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 0
+ genXml.logName: diima_22_solo_11
+ genXml.pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Dima\\xml\\pathurl_dima22_solo_11b.txt
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+0 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\10\\Color\\improved_photo200314_1.jpg
+1 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\10\\Color\\spr\\spr(41).jpeg
+2 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\10\\Color\\spr\\spr(142).jpeg
+3 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\10\\Color\\spr\\spr(2).jpeg
+4 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\10\\Color\\spr\\spr(6).jpeg
+5 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\10-spr.jpeg
+6 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\18.05.06%20-%20Maxim%20006-spr.jpeg
+7 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\10402_16_110-spr.jpeg
+8 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\100402_9_1205-spr.jpeg
+9 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\100402_11_498-spr.jpeg
+10 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\a3-spr.jpeg
+11 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\003-spr.jpeg
+12 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\Dima_1aaa-spr.jpeg
+13 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\Dima00147-spr.jpeg
+14 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DOCU0013_4-spr.jpeg
+15 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\Dimka-spr.jpeg
+16 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSCF1433-spr.jpeg
+17 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSCF2374-spr.jpeg
+18 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSCF4557-spr.jpeg
+19 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSCF4856-spr.jpeg
+20 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSCF4893-spr.jpeg
+21 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSCF4923-spr.jpeg
+22 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\foto_63a-spr.jpeg
+23 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\Foto2_resize-spr.jpeg
+24 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_1218-spr.jpeg
+25 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_6753-spr.jpeg
+26 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_8281-spr.jpeg
+27 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_8311-spr.jpeg
+28 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_8353-spr.jpeg
+29 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_8746_3-spr.jpeg
+30 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG-20150503-WA0001-spr.jpeg
+31 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG-20160320-WA0019-spr.jpeg
+32 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_9077-spr.jpeg
+33 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMGP1388-spr.jpeg
+34 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\Izvodi-spr.jpeg
+35 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\Picture1%20002_resize-spr.jpeg
+36 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\1607_ZK_01750-spr.jpeg
+37 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\20150120_185431~2-spr.jpeg
+38 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\20190919_212736-spr.jpeg
+39 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSC_0320-spr.jpeg
+40 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSC_0406-spr.jpeg
+41 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_4505%20(2)-spr.jpeg
+42 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_8046-spr.jpeg
+43 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG-20190807-WA0002%20(2)-spr.jpeg
+44 filePathUrl[i]: E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG-20190807-WA0002%20(2)-spr.jpeg
+ i= 1  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\10\\Color\\improved_photo200314_1.jpg
+ i= 2  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\10\\Color\\spr\\spr(41).jpeg
+ i= 3  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\10\\Color\\spr\\spr(142).jpeg
+ i= 4  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\10\\Color\\spr\\spr(2).jpeg
+ i= 5  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\10\\Color\\spr\\spr(6).jpeg
+ i= 6  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\10-spr.jpeg
+ i= 7  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\18.05.06%20-%20Maxim%20006-spr.jpeg
+ i= 8  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\10402_16_110-spr.jpeg
+ i= 9  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\100402_9_1205-spr.jpeg
+ i= 10  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\100402_11_498-spr.jpeg
+ i= 11  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\a3-spr.jpeg
+ i= 12  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\003-spr.jpeg
+ i= 13  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\Dima_1aaa-spr.jpeg
+ i= 14  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\Dima00147-spr.jpeg
+ i= 15  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DOCU0013_4-spr.jpeg
+ i= 16  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\Dimka-spr.jpeg
+ i= 17  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSCF1433-spr.jpeg
+ i= 18  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSCF2374-spr.jpeg
+ i= 19  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSCF4557-spr.jpeg
+ i= 20  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSCF4856-spr.jpeg
+ i= 21  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSCF4893-spr.jpeg
+ i= 22  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSCF4923-spr.jpeg
+ i= 23  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\foto_63a-spr.jpeg
+ i= 24  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\Foto2_resize-spr.jpeg
+ i= 25  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_1218-spr.jpeg
+ i= 26  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_6753-spr.jpeg
+ i= 27  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_8281-spr.jpeg
+ i= 28  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_8311-spr.jpeg
+ i= 29  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_8353-spr.jpeg
+ i= 30  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_8746_3-spr.jpeg
+ i= 31  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG-20150503-WA0001-spr.jpeg
+ i= 32  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG-20160320-WA0019-spr.jpeg
+ i= 33  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_9077-spr.jpeg
+ i= 34  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMGP1388-spr.jpeg
+ i= 35  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\Izvodi-spr.jpeg
+ i= 36  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\Picture1%20002_resize-spr.jpeg
+ i= 37  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\1607_ZK_01750-spr.jpeg
+ i= 38  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\20150120_185431~2-spr.jpeg
+ i= 39  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\20190919_212736-spr.jpeg
+ i= 40  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSC_0320-spr.jpeg
+ i= 41  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSC_0406-spr.jpeg
+ i= 42  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_4505%20(2)-spr.jpeg
+ i= 43  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG_8046-spr.jpeg
+ i= 44  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG-20190807-WA0002%20(2)-spr.jpeg
+ i= 45  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG-20190807-WA0002%20(2)-spr.jpeg
+====================

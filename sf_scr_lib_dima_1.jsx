@@ -100,6 +100,42 @@ function  handleXmlDima_1()
 //===================================================
 
 //===================================================
+function  handleXmlDima_3(myXml)
+{
+
+    var i = 0; 
+    var fList = myXml.split('\n');
+    for(var i = 0; i < fList.length; i++) {
+        if(fList[i].indexOf("file") != -1) {
+
+            //lg.writeln(" fList[i]: "   + fList[i]);
+
+            var fpList = fList[i].split('\/');
+            var winPath = '';
+            for(var ii = 0; ii < fpList.length; ii++) {
+
+                if(fpList[ii] == "file:")     {continue;}
+                if(fpList[ii] == "localhost") {continue;}
+                if(fpList[ii] == "E%3a")      {winPath += "E:\\\\"; continue;}
+
+                winPath += fpList[ii];
+                if (ii < fpList.length -1 && ii > 3) {winPath += "\\\\";}
+
+            }
+
+        } //if(fList[i].indexOf("pathurl") != -1) {
+        filePathUrl.push(winPath);
+
+        //lg.writeln(i.toString() + " filePathUrl[i]: "   + filePathUrl[i]);
+    } //    for(var i = 0; i < fList.length; i++) {
+
+
+    //var hdr = myXml.media.video.track.clipitem;
+    //var hdr = myXml.project.children.bin.media.video.track.clipitem;
+    
+
+}
+//===================================================
 function  handleXmlDima_2(myXml)
 {
 

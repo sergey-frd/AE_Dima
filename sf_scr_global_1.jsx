@@ -75,33 +75,57 @@ var addropertyKeys=[
 //===============================================
 var addropertyKeysLb=[
 0,     
-2,   
 2.5,   
-3,   
 5];    
 
 var addropertyValLb=[
 1   ,
-1.37,
 1.4 ,
-1.43,
 1.62];
 
 
 var addropertyKeysBl=[ 
 0,    
-3,  
 3.5,  
-4,  
 5];   
 
 
 var addropertyValBl=[
 1.62,
-1.43,
 1.4,
-1.37,
 1.0];
+//===============================================
+
+// //===============================================
+// var addropertyKeysLb=[
+// 0,     
+// 2,   
+// 2.5,   
+// 3,   
+// 5];    
+// 
+// var addropertyValLb=[
+// 1   ,
+// 1.37,
+// 1.4 ,
+// 1.43,
+// 1.62];
+// 
+// 
+// var addropertyKeysBl=[ 
+// 0,    
+// 3,  
+// 3.5,  
+// 4,  
+// 5];   
+// 
+// 
+// var addropertyValBl=[
+// 1.62,
+// 1.43,
+// 1.4,
+// 1.37,
+// 1.0];
 //===============================================
 //===============================================
 var addropertyKeysLb2=[
@@ -283,11 +307,21 @@ function getRandomInt(min, max) {
 
 
 //===================================================
-// e:\Git\P_h_o_t_o\AE_JSX\AE_Dima\xml\gen_parm_1.xml
+function readXmlaeGenXml(pathXml) 
+{
+    var file = File(pathXml);
+    
+    file.open("r");
+    var xmlString = file.read();
+    var genXml = new XML(xmlString);
+    file.close();
+    return genXml;
+}
+
+//===================================================
 function readXmlaeGenXml_1() 
 {
     var file = File("e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Dima\\xml\\gen_parm_1.xml");
-    <pathRrXml></pathRrXml>
     file.open("r");
     var xmlString = file.read();
     var genXml = new XML(xmlString);
@@ -304,8 +338,9 @@ function readXmlae_Dima_22_7_br_1(pathRrXml)
     var file = File(pathRrXml);
     file.open("r");
     var xmlString = file.read();
-    var myXml = new XML(xmlString);
+    //var myXml = new XML(xmlString);
     file.close();
-    return myXml;
+    //return myXml;
+    return xmlString;
 }
 

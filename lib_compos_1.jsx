@@ -278,11 +278,7 @@ function handleNewComposit2()
 
     for(var i = 0; i < filePathUrl.length; i++) {
 
-        //lg.writeln(' i= '+ String(i+1) +'  filePathUrl=> ' + filePathUrl[i]);
-
-        //nn  = 1+i;        
-        //var Prefix_NN_nn    = Prefix_NN+nn;  
-
+        lg.writeln(' i= '+ String(i+1) +'  filePathUrl=> ' + filePathUrl[i]);
 
         var videoFile = File(filePathUrl[i]);
         var videoFileItem = app.project.importFile(new ImportOptions(videoFile));
