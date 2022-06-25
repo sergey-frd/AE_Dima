@@ -1,0 +1,126 @@
+====================
+IgorSvt22_2 Date: Tue Jun 21 2022 21:20:42 GMT+0300
+ getRandomInt: 1
+ getRandomInt: 3
+ getRandomInt: 8
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 0
+ genXml: <Stuff>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Dima\\xml\\ae_DimSvet_22_1.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Dima\\xml\\ae_DimSvet_22_1.xml
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/Image1c-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/20200411_182541%20(2)-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/20200413_131222%20(2)-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG_0661-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG_0970-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG_2106-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG_4959-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG_5992-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG_6437-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG_7610-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG-20160528-WA0007-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/Dima$sveta_Leon-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/Dima$sveta-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG_6026-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_for_DR/spr/IMG-20190708-WA0005-spr.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG_5146-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/135_3583-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/DSCF3595-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/DSCF4086-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/DSCF4422-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/DSCF4427(1)-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG_1209-001-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG-20160528-WA0001-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG-20170112-WA0004-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG-20160528-WA0004-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/DSC_0461-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/20170726_185452-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/IMG_4395-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/DSC_0813-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/DSC_0881%20(2)-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_21/IMG-20211120-WA0009.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_DimSvet/spr/20190208_132733-Enhanced.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_for_DR/spr/IMG-20210206-WA0001a-spr.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20220205-WA0002.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/2019/Phone/WhatsApp_Images_22/IMG-20220210-WA0013.jpg</pathurl>
+</Stuff>
+filePathUrl.length= 35
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+ i= 1  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\Image1c-Enhanced.jpeg
+!! Not found findItem 
+ i= 2  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\20200411_182541%20(2)-Enhanced.jpeg
+!! Not found findItem 
+ i= 3  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\20200413_131222%20(2)-Enhanced.jpeg
+!! Not found findItem 
+ i= 4  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG_0661-Enhanced.jpeg
+!! Not found findItem 
+ i= 5  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG_0970-Enhanced.jpeg
+!! Not found findItem 
+ i= 6  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG_2106-Enhanced.jpeg
+!! Not found findItem 
+ i= 7  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG_4959-Enhanced.jpeg
+!! Not found findItem 
+ i= 8  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG_5992-Enhanced.jpeg
+!! Not found findItem 
+ i= 9  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG_6437-Enhanced.jpeg
+!! Not found findItem 
+ i= 10  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG_7610-Enhanced.jpeg
+!! Not found findItem 
+ i= 11  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG-20160528-WA0007-Enhanced.jpeg
+!! Not found findItem 
+ i= 12  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\Dima$sveta_Leon-Enhanced.jpeg
+!! Not found findItem 
+ i= 13  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\Dima$sveta-Enhanced.jpeg
+!! Not found findItem 
+ i= 14  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG_6026-Enhanced.jpeg
+!! Not found findItem 
+ i= 15  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG-20190708-WA0005-spr.jpeg
+!! Not found findItem 
+ i= 16  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG_5146-Enhanced.jpeg
+!! Not found findItem 
+ i= 17  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\135_3583-Enhanced.jpeg
+!! Not found findItem 
+ i= 18  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\DSCF3595-Enhanced.jpeg
+!! Not found findItem 
+ i= 19  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\DSCF4086-Enhanced.jpeg
+!! Not found findItem 
+ i= 20  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\DSCF4422-Enhanced.jpeg
+!! Not found findItem 
+ i= 21  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\DSCF4427(1)-Enhanced.jpeg
+!! Not found findItem 
+ i= 22  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG_1209-001-Enhanced.jpeg
+!! Not found findItem 
+ i= 23  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG-20160528-WA0001-Enhanced.jpeg
+!! Not found findItem 
+ i= 24  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG-20170112-WA0004-Enhanced.jpeg
+!! Not found findItem 
+ i= 25  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG-20160528-WA0004-Enhanced.jpeg
+!! Not found findItem 
+ i= 26  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\DSC_0461-Enhanced.jpeg
+!! Not found findItem 
+ i= 27  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\20170726_185452-Enhanced.jpeg
+!! Not found findItem 
+ i= 28  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\IMG_4395-Enhanced.jpeg
+!! Not found findItem 
+ i= 29  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\DSC_0813-Enhanced.jpeg
+!! Not found findItem 
+ i= 30  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\DSC_0881%20(2)-Enhanced.jpeg
+!! Not found findItem 
+ i= 31  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_21\\IMG-20211120-WA0009.jpg
+!! Not found findItem 
+ i= 32  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_DimSvet\\spr\\20190208_132733-Enhanced.jpeg
+!! Not found findItem 
+ i= 33  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\IMG-20210206-WA0001a-spr.jpeg
+!! Not found findItem 
+ i= 34  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20220205-WA0002.jpg
+!! Not found findItem 
+ i= 35  filePathUrl=> E:\\Pictures\\Photo\\2019\\Phone\\WhatsApp_Images_22\\IMG-20220210-WA0013.jpg
+!! Not found findItem 
+====================
