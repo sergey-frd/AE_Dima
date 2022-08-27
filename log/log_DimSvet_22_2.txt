@@ -1,0 +1,48 @@
+====================
+DimSvet_22_2 Date: Mon Jul 04 2022 15:20:04 GMT+0300
+ getRandomInt: 7
+ getRandomInt: 5
+ getRandomInt: 10
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 0
+ genXml: <Stuff>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Dima\\xml\\ae_DimSvet_22_2.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Dima\\xml\\ae_DimSvet_22_2.xml
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2020/All-2%20(2).jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_for_DR/spr/DSC_0594-spr.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_for_DR/spr/DSC_0595-spr.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_for_DR/spr/DSC_0596-spr.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022/spr/IMG-20210206-WA0000-spr.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022/spr/IMG-20210612-WA0003-spr.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022/spr/IMG-20210612-WA0023-spr.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2021/211120/Dimf_Ostin_211120.00_00_48_07.Still001.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Alice/2022_for_Dr/220703_2.jpg</pathurl>
+</Stuff>
+filePathUrl.length= 9
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+ i= 1  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2020\\All-2%20(2).jpg
+!! Not found findItem 
+ i= 2  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSC_0594-spr.jpeg
+!! Not found findItem 
+ i= 3  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSC_0595-spr.jpeg
+!! Not found findItem 
+ i= 4  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\DSC_0596-spr.jpeg
+!! Not found findItem 
+ i= 5  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022\\spr\\IMG-20210206-WA0000-spr.jpeg
+!! Not found findItem 
+ i= 6  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022\\spr\\IMG-20210612-WA0003-spr.jpeg
+!! Not found findItem 
+ i= 7  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022\\spr\\IMG-20210612-WA0023-spr.jpeg
+!! Not found findItem 
+ i= 8  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2021\\211120\\Dimf_Ostin_211120.00_00_48_07.Still001.jpg
+!! Not found findItem 
+ i= 9  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Alice\\2022_for_Dr\\220703_2.jpg
+!! Not found findItem 
+====================
